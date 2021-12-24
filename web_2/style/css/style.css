@@ -1,0 +1,144 @@
+.top-head-bg{
+    background-color: #0060AF;
+}
+.top-head-info{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+#menu ul li a{
+    color: rgb(90, 87, 87);
+    font-size: 17px;
+    text-transform:capitalize;
+}
+
+.sub-head-items{
+    color: rgb(90, 87, 87);
+    text-decoration: none;
+}
+
+.news-bg-img{
+    background-image: url("../../img/img2.PNG");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.news-op-img{
+    background-color: rgba(29, 29, 29, 0.541);
+}
+
+.news-inside-div{
+    margin: 0%;
+    margin-top: 17%;
+    color: white;
+}
+
+.news-inside-div h2{
+    font-weight: normal;
+    text-shadow: 1px 1px 2px rgb(233, 232, 232);
+}
+.news-inside-div h1{
+    font-weight: normal;
+    text-shadow: 1px 1px 2px rgb(233, 232, 232);
+}
+
+.btn-inside-div{
+    border: 2px solid white;
+    font-size: 18px;
+    /* margin: 10px 0; */
+    font-weight: bold;
+}
+
+
+.bg-banner{
+    background-image: url("../../img/bg-img.PNG");
+    background-repeat: repeat-x;
+}
+
+
+.bg-banner h2{
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.bg-banner small{
+    font-size: 14px;
+}
+
+.btn-org{
+    background-color: #FF8200;
+}
+.bg-banner h3{
+    font-weight: normal;
+    color: white;
+}
+
+.body-sub-head{
+    font-weight: normal;
+    color: #099BCA;
+    text-align: center;
+    display: inline;   
+}
+
+.body-sub-head i{
+    font-size: 12px;
+}
+
+.sup-small{
+    bottom: 5ex;
+    font-size: 12px;
+}
+
+#small{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.btn-body-color{
+    color:#fff;
+    font-size: 20px;
+    background-color: #132f57;
+}
+
+.nav-color{
+    background-color:white;
+}
+body{
+    background-color: #e2e9ec;
+}
+
+.bg-footer{
+    background-color:#132f57;
+}
+
+.nav ul li{
+    list-style-type: none;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+#list-head{
+    color: rgb(59, 87, 248);
+}
+
+
+.foot-logo-left{
+    background-image: url("../../img/foot-logo.PNG");
+}
+
+.sub-footer{
+    background-color: #3f48cc;
+}
+
+.sub-footer small{
+    color: white;
+}
+
+.sub-footer i{
+    margin: 5px;
+    color: white;
+}
